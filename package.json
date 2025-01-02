@@ -38,5 +38,8 @@
     "*.{ts,js,json,html,css,scss,md}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "@angular-devkit/schematics": "^19.0.6"
   }
 }
